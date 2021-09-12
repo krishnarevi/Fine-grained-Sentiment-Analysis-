@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Here we are trying to predict sentiment levels from very negative to very positive (- -, -, 0, +, ++) on the Stanford Sentiment Treebank (SST) dataset using LSTM . In the fine-grained version of SST, there are 5 different sentiment classes - **very negative, negative, neutral, positive and very positive** 
+In the fine-grained version of Stanford Sentiment Treebank (SST) dataset, there are 5 different sentiment classes - **very negative, negative, neutral, positive and very positive** .Here we are trying to predict sentiment using `LSTM` and `PyTorch`.
 
 ### Dataset 
 
