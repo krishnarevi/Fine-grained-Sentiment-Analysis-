@@ -8,12 +8,6 @@ In the fine-grained version of Stanford Sentiment Treebank (SST) dataset, there 
 
 The [Stanford Sentiment Treebank](https://nlp.stanford.edu/sentiment/) (SST-5, or SST-fine-grained) dataset consists of 11,855 sentences extracted from movie reviews with fine-grained sentiment labels [1-5], as well as 215,154 phrases that compose each sentence in the dataset. 
 
-The typical breakdown of fine-grained sentiment uses *five* discrete classes, as shown below (fig 1. a).
-
-![class labels](README.assets\class labels.png)
-
-​											*fig 1.a	Typical class labels for fine-grained sentiment classification*
-
 For the current task following files are used from the data repository 
 
 - datasetSentences.txt which contains 11,855 sentences extracted from movie reviews.
