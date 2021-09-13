@@ -10,11 +10,7 @@ The [Stanford Sentiment Treebank](https://nlp.stanford.edu/sentiment/) (SST-5, o
 
 The typical breakdown of fine-grained sentiment uses *five* discrete classes, as shown below (fig 1. a).
 
-<<<<<<< HEAD
-![class labels](README.assets/class labels-1631430489396.png)
-=======
 ![class labels](README.assets\class labels.png)
->>>>>>> c965b4344272fd705c8a5a436523c5e336834b27
 
 ​											*fig 1.a	Typical class labels for fine-grained sentiment classification*
 
@@ -97,7 +93,7 @@ Epochs :30
 
 ### Results 
 
-Refer to code and results  [here](https://github.com/krishnarevi/TSAI_END2.0_Session7/blob/main/Assignment_1/Sentiment_analysis_stanford_treebank.ipynb)
+Refer to code and results  [here](https://github.com/krishnarevi/Fine-grained-Sentiment-Analysis-/blob/main/Sentiment_analysis_stanford_treebank.ipynb)
 
 
 
